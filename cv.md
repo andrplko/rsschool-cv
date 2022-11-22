@@ -27,6 +27,33 @@ I am 27 years old. My desire to improve myself by learning new things, solving c
 * Yandex Practicum (Web-Developer (free part))
 * Rolling Scopes School Youtube 
 
+*******
+###Code Examples
+```
+
+
+function smash(words) {
+  var sum = '';
+  for (i = 0; i < words.length; i++) {
+    if (i == 0) {
+      sum += words[i];
+    }
+    else {
+      sum = sum + ' ' + words[i];
+    }
+  }
+  return sum;
+};
+
+console.log(smash(['Привет,', 'приятно', 'познакомиться.']));
+
+```
+*******
+###Language
+
+* English Level - A2 | I try to learn English on my own. I use a smartphone app Duolingo and often use the online translator DeepL. I also had language practice when I went several times to visit my friends in Berlin.
+* Polish Level - A2-B1 
+
 
 
 
