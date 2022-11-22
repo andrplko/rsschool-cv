@@ -1,5 +1,5 @@
 ## ANDREI PALESHKA
-*******
+
 ### Contacts
 
 * E-mail: andrepoleshko@gmail.com
