@@ -1,2 +1,4 @@
-# [rsschool-cv.md](https://andrplko.github.io/rsschool-cv/cv)
-# [rsschool-cv](https://andrplko.github.io/rsschool-cv/)
+# rsschool-cv
+
+[CV. Markdown](https://andrplko.github.io/rsschool-cv/cv)
+[CV. HTML and CSS](https://andrplko.github.io/rsschool-cv/)
